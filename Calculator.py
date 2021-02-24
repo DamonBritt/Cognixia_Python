@@ -31,3 +31,11 @@ print("The difference of your two numbers is", dif)
 print("The product of your two numbers is", prod)
 print("The quotient of your two numbers is", quot)
 print("The modulus of your two numbers is", mod)
+
+# This function multiplies two numbers
+def multiply(x, y):
+    return x * y
+
+# This function divides two numbers
+def divide(x, y):
+    return x / y
